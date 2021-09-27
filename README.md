@@ -1,2 +1,6 @@
 # PostCuringOven
-Files and information for creating a small, low temperature, post curing oven for epoxy projects.
+This repository contains vector (DXF) and Fusion 360 archives to make your own flat back, easily storable low-temperature Epoxy Resin Curing Oven. A post curing oven takes advantage of the exothermic reaction caused by epoxy curing to accelerate the process. This is intended for low volume projects only. Thick pours and some faster curing resins may go into thermal runaway. Please reserve this for small castings, epoxy art and coating, micarta, jewelry, etc.
+
+This oven is intended to be made with 12mm or 1/2" plywood. 12mm baltic or russian birch plywood provides a good easy knock together fit. We recommend using a solid-state-relay based temerature controller (InkBird brand on amazon is what we have been using) with either a Wagner or Genesis brand heat gun on its low setting. The fusion 360 archive for the side panel includes parameters you can edit to alter the heat gun port hole size.
+
+You can experiment with temperatures for post curing. - we have had the best results between 115-125 degrees F (46-52C). Do not leave the oven unattended, do not use it at higher temperatures, and be careful not to touch the heat gun or use with any uncured flammable finishes With the low temperatures and small size of this oven, no sealing or insulation is necessary.
